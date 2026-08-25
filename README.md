@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nandhini-252005/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nandhini-252005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandhini-252005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Nandhini-252005/LeetCode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nandhini-252005/LeetCode/tree/master/0001-two-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nandhini-252005/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
