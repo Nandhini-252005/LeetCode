@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nandhini-252005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nandhini-252005/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nandhini-252005/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Nandhini-252005/LeetCode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nandhini-252005/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Simulation
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2027-minimum-moves-to-convert-string](https://github.com/Nandhini-252005/LeetCode/tree/master/2027-minimum-moves-to-convert-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nandhini-252005/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
